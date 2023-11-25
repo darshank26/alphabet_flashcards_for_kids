@@ -58,8 +58,8 @@ class _HomeScreenState extends State<HomeScreen> {
     'Umbrella',
     'Van',
     'Whale',
-    'Yak',
     'Xmas',
+    'Yak',
     'Zebra',
   ];
 
@@ -87,8 +87,8 @@ class _HomeScreenState extends State<HomeScreen> {
     'U u',
     'V v',
     'W w',
-    'Y y',
     'X x',
+    'Y y',
     'Z z',
   ];
 
@@ -116,8 +116,8 @@ class _HomeScreenState extends State<HomeScreen> {
     'U',
     'V',
     'W',
-    'Y',
     'X',
+    'Y',
     'Z',
   ];
 
