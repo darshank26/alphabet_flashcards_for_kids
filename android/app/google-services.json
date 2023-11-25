@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303644516283",
+    "project_id": "alphabet-flashcards-for-kids",
+    "storage_bucket": "alphabet-flashcards-for-kids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303644516283:android:24b486324418c102602e9e",
+        "android_client_info": {
+          "package_name": "com.darshankomu.alphabet_flashcards_for_kids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAptMg6cqB5KQ_1a9wujH0WBKXNCsw6Vtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
